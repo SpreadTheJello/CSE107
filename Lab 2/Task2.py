@@ -47,7 +47,7 @@ inverse_img.show()
 # Write the image to a .tif file.
 inverse_img.save("Watertower_inverse.tif")
 
-# Questions for task 1: 
+# Questions for task 2: 
 # 1. What is the maximum pixel value of your inverse image?
 # - 255
 # 2. How is this maximum value related to the values of the original image?
