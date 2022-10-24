@@ -7,6 +7,7 @@ import math
 # The number of columns in the resized image.
 # A string with values ‘nearest’ or ‘bilinear’.
 # and outputs the resized numpy matrix image.
+# Based off the TA's sample file
 def myImageResize(inImage_pixels, M, N, interpolation_method ):
 
     Minput, Ninput = inImage_pixels.shape
